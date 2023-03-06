@@ -20,6 +20,6 @@ require (
 	github.com/multiformats/go-multicodec v0.4.0
 	github.com/stretchr/testify v1.7.0
 	github.com/whyrusleeping/cbor-gen v0.0.0-20220224212727-7a699437a831
-	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871
+	golang.org/x/crypto v0.1.0
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 )
